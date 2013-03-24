@@ -1,0 +1,4 @@
+提取XPEP，WIN7EP,XPKPCR
+用王连海方法WIN7内找KPCR，符合其条件的次数
+
+解决了输出EPROCESS结果大小不一致的BUG，即：0A前多出0D。
